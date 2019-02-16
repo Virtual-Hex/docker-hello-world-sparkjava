@@ -1,2 +1,1 @@
-This will run a simple spark java web server on port 4001. You can customize this by adding an enviorment variable WEB_SERVER_PORT with the port number
-`WEB_SERVER_PORT=4002WEB_SERVER_PORT. 
+This will run a simple "Hello World!" spark java web server on port 4001; this can be customize this by adding an enviorment variable WEB_SERVER_PORT with the port number `WEB_SERVER_PORT=4002` would overide the default value and listen on port 4002. 
